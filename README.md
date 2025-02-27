@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# first project of my life🚀
 
 # 👋 Hi, I'm [Your Name]
 
