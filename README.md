@@ -1,6 +1,6 @@
 # first project of my life🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Runyararo Marongwe
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
